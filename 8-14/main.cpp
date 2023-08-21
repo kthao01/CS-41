@@ -33,7 +33,7 @@ Person noob("Matt Dame", 52, "wow@gmail.com");
 Person a("Ben Affleck");
 Person b("Jeniffer Lopez", 50, "notwow@gmail.com");
 Person c("Ben Kenobi", 76, "theForce@gmail.com");
-Boxer d("Mike Tyson", 55, "punchout@gmail.com", "Heavyweight");
+Boxer d("Billy Tyson", 55, "punchout@gmail.com", "Heavyweight");
 Boxer e;
 
 d.display();
