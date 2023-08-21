@@ -9,7 +9,6 @@ void createPerson(int i);
 using namespace std;
 
 int main() {
-    // lee is gay
 //    Pyramid* a = new Pyramid;
 //    a->setName("New Fresno");
 //    a->setHeight(100);
@@ -29,8 +28,6 @@ int main() {
 //    noob.setEmail("seeAboutAGirl@Yahoo.com");
 //
 //    noob.display();
-
-// did the push work?
 
 
 Person noob("Matt Dame", 52, "wow@gmail.com");
